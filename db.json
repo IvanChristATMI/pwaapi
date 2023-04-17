@@ -1,10 +1,82 @@
-[{"kar_id":1,"nama":"Galina","alamat":"Brazil","no hp":"143-540-1561","tgl lahir":"1/15/2023","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":2,"nama":"Robinson","alamat":"Chile","no hp":"268-573-8094","tgl lahir":"4/20/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":3,"nama":"Isak","alamat":"Russia","no hp":"844-273-5140","tgl lahir":"10/25/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":4,"nama":"Orsola","alamat":"Argentina","no hp":"485-842-9017","tgl lahir":"7/12/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":5,"nama":"Sondra","alamat":"Finland","no hp":"309-509-0425","tgl lahir":"7/10/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":6,"nama":"Lucina","alamat":"China","no hp":"158-512-9967","tgl lahir":"11/4/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":7,"nama":"Lyda","alamat":"Finland","no hp":"767-772-9407","tgl lahir":"4/30/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":8,"nama":"Nanete","alamat":"Serbia","no hp":"984-820-4428","tgl lahir":"3/7/2023","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":9,"nama":"Stace","alamat":"China","no hp":"293-997-6823","tgl lahir":"11/18/2022","image":"error: wrong number of arguments (given 3, expected 0)"},
-{"kar_id":10,"nama":"Pedro","alamat":"Indonesia","no hp":"400-198-0255","tgl lahir":"12/18/2022","image":"error: wrong number of arguments (given 3, expected 0)"}]
+[
+  {
+    "kar_id": 1,
+    "nama": "Joby Radclyffe",
+    "alamat": "Poland",
+    "no_hp": "831-371-9973",
+    "tgl_lahir": "10/31/2022",
+    "jabatan": "Programmer IV"
+  },
+  {
+    "kar_id": 2,
+    "nama": "Adelbert Morcombe",
+    "alamat": "Greece",
+    "no_hp": "728-576-1693",
+    "tgl_lahir": "6/30/2022",
+    "jabatan": "Automation Specialist II"
+  },
+  {
+    "kar_id": 3,
+    "nama": "Pansy Hanney",
+    "alamat": "Indonesia",
+    "no_hp": "934-553-0588",
+    "tgl_lahir": "1/17/2023",
+    "jabatan": "Web Designer I"
+  },
+  {
+    "kar_id": 4,
+    "nama": "Shina Crotty",
+    "alamat": "Kazakhstan",
+    "no_hp": "316-275-8485",
+    "tgl_lahir": "10/14/2022",
+    "jabatan": "Staff Accountant IV"
+  },
+  {
+    "kar_id": 5,
+    "nama": "Josey Northridge",
+    "alamat": "Brazil",
+    "no_hp": "479-869-6555",
+    "tgl_lahir": "5/27/2022",
+    "jabatan": "Office Assistant IV"
+  },
+  {
+    "kar_id": 6,
+    "nama": "Nilson Eberts",
+    "alamat": "Kenya",
+    "no_hp": "598-937-1985",
+    "tgl_lahir": "7/31/2022",
+    "jabatan": "Occupational Therapist"
+  },
+  {
+    "kar_id": 7,
+    "nama": "Modesty Girt",
+    "alamat": "Indonesia",
+    "no_hp": "712-731-9723",
+    "tgl_lahir": "2/7/2023",
+    "jabatan": "Compensation Analyst"
+  },
+  {
+    "kar_id": 8,
+    "nama": "Merv Tann",
+    "alamat": "Belarus",
+    "no_hp": "154-902-6937",
+    "tgl_lahir": "8/14/2022",
+    "jabatan": "Teacher"
+  },
+  {
+    "kar_id": 9,
+    "nama": "Zaneta Penhaleurack",
+    "alamat": "Mexico",
+    "no_hp": "376-987-5111",
+    "tgl_lahir": "1/15/2023",
+    "jabatan": "Health Coach III"
+  },
+  {
+    "kar_id": 10,
+    "nama": "Gypsy Greenacre",
+    "alamat": "Poland",
+    "no_hp": "836-511-0437",
+    "tgl_lahir": "1/12/2023",
+    "jabatan": "Teacher"
+  }
+]
